@@ -3,4 +3,8 @@ body {
 }
 .rounded {
 	border-radius: 100%;
+	object-fit: cover;
+	height: 300px;
+	width: 300px;
+	object-position: 50% 0%;
 }
